@@ -1,3 +1,4 @@
+
 # TOMAS Video Downloader Tool
 
 A simple and powerful tool to download videos from TikTok, YouTube, and other platforms using the `yt_dlp` library.
@@ -15,40 +16,55 @@ A simple and powerful tool to download videos from TikTok, YouTube, and other pl
 
 ```bash
 pkg update && pkg upgrade
+```
+
+```bash
 pkg install git python -y
+```
+
+```bash
 termux-setup-storage
-2. Clone the Repository
+```
 
-git clone https://github.com/Toma1264git0hub/REPO_NAME
-cd REPO_NAME
+### 2. Clone the Repository
 
-3. Run the Tool
+```bash
+git clone https://github.com/Toma1264git0hub/download-from-all-program/
+```
 
+```bash
+cd download-from-all-program
+```
+
+### 3. Run the Tool
+
+```bash
 python download-from-all-Programs.py
+```
 
-4. Enter the Video URL
+### 4. Enter the Video URL
 
 Paste the video URL when asked, and the tool will download it automatically.
 
-5. File Location
+### 5. File Location
 
 Downloaded videos will be saved in:
 
+```
 /storage/emulated/0/Download/Tomas
-
+```
 
 ---
 
-Example
+## Example
 
+```bash
 Video URL: https://www.tiktok.com/@user/video/123456789
-
+```
 
 ---
 
-Developer
+## Developer
 
-Telegram: @K_DKP
-
-GitHub: @Toma1264git0hub
-
+- Telegram: [@K_DKP](https://t.me/K_DKP)
+- GitHub: [@Toma1264git0hub](https://github.com/Toma1264git0hub)
